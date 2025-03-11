@@ -1,2 +1,5 @@
 [core]
 	excludesfile = C:/Users/akim1/.gitignore_global
+[user]
+	name = Alex Kim
+	email = a.kim17291@gmail.com
